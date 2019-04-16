@@ -3,17 +3,25 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using CEK.CSharp.Models;
+using CEK.CSharp;
 
 namespace CoreBot.Controllers
 {
     public class ClovaController : Controller
     {
-        // GET: /<controller>/
-        public IActionResult Index()
+        private ClovaClient client;
+
+        public ClovaController()
         {
-            return View();
+            client = new ClovaClient();
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Post()
+        {
+            return new OkObjectResult(true);
+        }
+
     }
 }
