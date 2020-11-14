@@ -23,7 +23,7 @@ This bot has been created using [Bot Framework][1], it shows how to:
 - Run the project (press `F5` key)
 
 ## .NET Core CLI
-- Install the [.NET Core CLI tools](https://docs.microsoft.com/en-us/dotnet/core/tools/?tabs=netcore2x). 
+- Install the [.NET Core CLI tools](https://docs.microsoft.com/dotnet/core/tools/?tabs=netcore2x&WT.mc_id=dotnet-0000-machiy). 
 - Using the command line, navigate to your project folder.
 - Type `dotnet run`.
 
@@ -62,23 +62,23 @@ This bot has been created using [Bot Framework][1], it shows how to:
 
 
 [1]: https://dev.botframework.com
-[4]: https://dotnet.microsoft.com/download
+[4]: https://dotnet.microsoft.com/download?WT.mc_id=dotnet-0000-machiy
 [5]: https://github.com/microsoft/botframework-emulator
 [6]: https://github.com/Microsoft/BotFramework-Emulator/releases
-[7]: https://docs.microsoft.com/cli/azure/?view=azure-cli-latest
-[8]: https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest
+[7]: https://docs.microsoft.com/cli/azure/?view=azure-cli-latest&WT.mc_id=dotnet-0000-machiy
+[8]: https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=dotnet-0000-machiy
 [9]: https://github.com/Microsoft/botbuilder-tools/tree/master/packages/MSBot
-[10]: https://portal.azure.com
+[10]: https://portal.azure.com/?WT.mc_id=dotnet-0000-machiy
 [11]: https://www.luis.ai
 [20]: https://docs.botframework.com
-[21]: https://docs.microsoft.com/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
-[22]: https://docs.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0
-[23]: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-prompts?view=azure-bot-service-4.0
-[24]: https://docs.microsoft.com/en-us/javascript/api/botbuilder-dialogs/waterfall
-[25]: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-activity-processing?view=azure-bot-service-4.0
-[26]: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-waterfall?view=azure-bot-service-4.0
-[27]: https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0
+[21]: https://docs.microsoft.com/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0&WT.mc_id=dotnet-0000-machiy
+[22]: https://docs.microsoft.com/azure/bot-service/?view=azure-bot-service-4.0&WT.mc_id=dotnet-0000-machiy
+[23]: https://docs.microsoft.com/azure/bot-service/bot-builder-prompts?view=azure-bot-service-4.0&WT.mc_id=dotnet-0000-machiy
+[24]: https://docs.microsoft.com/javascript/api/botbuilder-dialogs/waterfall?WT.mc_id=dotnet-0000-machiy
+[25]: https://docs.microsoft.com/azure/bot-service/bot-builder-concept-activity-processing?view=azure-bot-service-4.0&WT.mc_id=dotnet-0000-machiy
+[26]: https://docs.microsoft.com/azure/bot-service/bot-builder-tutorial-waterfall?view=azure-bot-service-4.0&WT.mc_id=dotnet-0000-machiy
+[27]: https://docs.microsoft.com/azure/bot-service/bot-concepts?view=azure-bot-service-4.0&WT.mc_id=dotnet-0000-machiy
 [30]: https://www.npmjs.com/package/restify
 [31]: https://www.npmjs.com/package/dotenv
-[32]: https://docs.microsoft.com/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0
+[32]: https://docs.microsoft.com/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0&WT.mc_id=dotnet-0000-machiy
 [40]: https://aka.ms/azuredeployment
